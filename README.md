@@ -1,4 +1,3 @@
-# NodeJS-DBFusion
 Modules
 This project uses the following Node.js modules:
 
